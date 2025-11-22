@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "report_type": "GIS Compliance Check",
+        "source_file": "D:\\Python\\austin_counties.geojson",
+        "rule": "Minimum 2500 sq mi"
+    },
+    "statistics": {
+        "total_features_checked": 16,
+        "non_compliant_count": 16
+    },
+    "non_compliant_regions": [
+        {
+            "name": "Caldwell County",
+            "area_sqmi": 544.43,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1955.57,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Comal County",
+            "area_sqmi": 572.77,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1927.23,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Lee County",
+            "area_sqmi": 631.56,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1868.44,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Kendall County",
+            "area_sqmi": 660.52,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1839.48,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Hays County",
+            "area_sqmi": 676.18,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1823.82,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Blanco County",
+            "area_sqmi": 710.58,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1789.42,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Guadalupe County",
+            "area_sqmi": 712.3,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1787.7,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Bastrop County",
+            "area_sqmi": 892.08,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1607.92,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Fayette County",
+            "area_sqmi": 956.23,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1543.77,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Llano County",
+            "area_sqmi": 961.82,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1538.18,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Milam County",
+            "area_sqmi": 1016.63,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1483.37,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Burnet County",
+            "area_sqmi": 1017.48,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1482.52,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Travis County",
+            "area_sqmi": 1020.89,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1479.11,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Gonzales County",
+            "area_sqmi": 1066.27,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1433.73,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Bell County",
+            "area_sqmi": 1085.64,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1414.36,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        },
+        {
+            "name": "Williamson County",
+            "area_sqmi": 1127.17,
+            "is_compliant": false,
+            "required_sqmi": 2500,
+            "shortfall_sqmi": 1372.83,
+            "recommendation": "WARNING: Seek waiver or combine with neighbor."
+        }
+    ]
+}

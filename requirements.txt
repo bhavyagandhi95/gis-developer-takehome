@@ -1,0 +1,13 @@
+Core GIS and Data Analysis
+
+Python Libraries required:
+geopandas>=0.13.0  # Handles spatial data and geometry (includes shapely, fiona, pyproj)
+pandas>=2.0.0      # Data manipulation and tabular analysis
+
+HTTP Requests
+
+requests>=2.31.0   # For querying the ArcGIS REST API
+
+Testing (Optional, for running test_suite.py via pytest)
+
+pytest>=7.0.0
